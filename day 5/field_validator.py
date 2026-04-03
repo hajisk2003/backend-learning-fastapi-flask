@@ -45,14 +45,3 @@ def insert(patient:Patient):
 
 patient1=Patient(**patient_info)
 insert(patient1)
-
-# def insert(name :str,age: int):
-#     if type(name)==str and type(age)==int:
-#         print(name)
-#         print(age)
-    
-#     # print(name)
-#     # print(age)
-#     print("insert into daabae")
-    
-# insert('haji','thirty')

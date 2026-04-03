@@ -1,2 +1,1 @@
-print(name)
-    # print(age)
+print(patient1)
