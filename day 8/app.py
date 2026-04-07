@@ -48,7 +48,7 @@ def predict_premium(data: UserInput):
 
         prediction = predict_output(user_input)
 
-        return JSONResponse(status_code=200, content={'predicted_category': prediction})
+        return JSONResponse(status_code=200, content={'response': prediction})
     except Exception as e:
         return JSONResponse(status_code=500,content=str(e))
         
