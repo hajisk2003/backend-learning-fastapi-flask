@@ -133,3 +133,4 @@ docker run -d -p 8000:8000 fastapi-app
 ## 🙌 Acknowledgment
 
 This project is part of my backend learning journey and hands-on practice.
+**Hajisab Shaikh**
